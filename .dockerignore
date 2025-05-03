@@ -1,0 +1,6 @@
+.idea
+.vite
+coverage
+docs
+node_modules
+package-lock.json
